@@ -13,6 +13,12 @@ o python setup.py build <br>
 o python setup.py install <br>
 o pip install pycocotools or pip install git+(https://github.com/philferriere/cocoa...^&subdirectory=PythonAPI') <br>
 
-# This Project
+# This Project:
 The repository concerns multiple object detection in one shot using a SSD model based on a SSD MobileNet V2 architecture. The ObjectDetection.ipynb file consists of the code for object detection on a single capture from frame. The ModelTrainingCollab file consists of the lengthy process of training the SSD MobileNet V2 architecture for it's implementation in object detection. <br>
 Usages: TensorFlow object detection API (for Model Zoo), TensorFlow (version 1.15), TensorFlow GPU, Protocol Buffers (for upgrade and install of protobuf), pip (upgrade and install), OpenCV, numpy
+
+# Model Constraints:
+No constraints.
+
+# Applications:
+The model can find its implementation in any system involving differentiating and identifying a lot of objects together without any confusion. It definitely can be used in video surveillance. 
