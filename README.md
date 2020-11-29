@@ -1,1 +1,1 @@
-# SSD-Object-Detection
+# SSD Object Detection
