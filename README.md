@@ -1,1 +1,1 @@
-# Multiple-Object-Detection
+# SSD-Object-Detection
